@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning c++ and java.
 - 💞️ I’m looking to collaborate on backend development.
 - 📫 How to reach me leo03.akrs@gmail.com
-- my linkedin profile -> https://www.linkedin.com/in/aditya-kumar-1b3204229/
+- my linkedin profile -> [https://www.linkedin.com/in/aditya-kumar-1b3204229/](https://www.linkedin.com/in/aditya-k-1b3204229/)
 
 <!---
 adityakr03/adityakr03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
