@@ -1,7 +1,3 @@
-Here's the updated README with the corrected section title:
-
----
-
 # 👋 Hi, I’m Aditya Kumar (@adityakr03)
 
 I’m a **Tech Enthusiast**, passionate about building scalable systems and solving real-world problems through code. With a strong foundation in **Ethical Hacking**, **Web Development**, and **Full-Stack Development**, I'm always eager to dive deeper into **Programming**, **Security**, and **Software Engineering**.
